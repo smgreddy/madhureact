@@ -1,0 +1,14 @@
+{
+    "users": [
+      { "id": 1, "name": "User1" },
+      { "id": 2, "name": "User2" },
+      { "id": 3, "name": "User3" }
+    ],
+    "items": [
+      { "id": 1, "name": "Item1", "price": 50 },
+      { "id": 2, "name": "Item2", "price": 100 },
+      { "id": 3, "name": "Item3", "price": 150 },
+      { "id": 4, "name": "Item4", "price": 200 }
+    ]
+  }
+  
